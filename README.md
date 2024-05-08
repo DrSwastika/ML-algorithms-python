@@ -1,4 +1,4 @@
-# Parkinson disease diagnosis using Machine Learning Algorithms
+# Training 3 ML models ( SVM, KNN, Random Forest) using Python to diagnose Parkinson's disease- A comparative study
 Overview:
 
 Parkinson's disease (PD) presents a significant challenge for early diagnosis, given its complex array of motor and non-motor symptoms. Leveraging machine learning (ML) algorithms, particularly in the analysis of speech features, holds promise for improving diagnostic accuracy. This repository serves as a comprehensive exploration into the efficacy of three prominent ML algorithms—Support Vector Machine (SVM), Random Forest (RF), and k-Nearest Neighbors (KNN)—in diagnosing PD based on speech parameters.
