@@ -9,3 +9,5 @@ The repository offers detailed insights into the methodological approach, includ
 
 By delving into the nuances of each algorithm's strengths and considerations, this repository aims to provide valuable guidance for researchers and practitioners in the field of Parkinson's disease diagnosis. Furthermore, it opens avenues for future research directions, including the exploration of ensemble methods to enhance diagnostic accuracy and clinical utility.
 Overall, this repository serves as a foundational resource for understanding the role of ML algorithms in early PD detection based on speech features, offering valuable insights and opportunities for advancement in the field.
+
+**I have consolidated all project results into a supplementary Word file, accessible in the repository. Your feedback and suggestions are greatly appreciated.**
